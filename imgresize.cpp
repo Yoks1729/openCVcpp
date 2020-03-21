@@ -75,7 +75,7 @@ int main()
     char key;
     cout << "Press any key amd enter to proceed " << endl;
     cin >> key;
-    while( key != 'q')
+    while(key != 'q')
     {
 
         cout << "Enter 'r' to RESIZE and 'e' to EXIT" << endl;
