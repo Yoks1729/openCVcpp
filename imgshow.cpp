@@ -27,7 +27,7 @@ int main()
     waitKey (300);
     char k;
     cout<< "Press 'q' to EXIT" << endl;
-    cin>>k;
+    cin>> k;
     if (k=='q')
     {
     // to exit the program.    
